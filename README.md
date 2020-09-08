@@ -1,6 +1,6 @@
 ## WebRtcTutorial 
 
-[![HitCount](http://hits.dwyl.com/ehdrms2034/webrtctutorial.svg)](http://hits.dwyl.com/ehdrms2034/webrtctutorial)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fehdrms2034%2FwebRtcTuto&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 #### 관련 내용은 다음 링크에서 확인하실 수 있습니다.
